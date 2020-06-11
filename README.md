@@ -1,4 +1,4 @@
-# gmail-increase-maximum-page-size
+# Gmail Macro - Increase Maximum Page Size to 200
 Maximum page size is limited to 100 conversations per page, however there's a way to bypass that. Using this extension, you can right click and execute macro to show 200 conversations per page.
 
 This was built to show more messages while using inboxy. (It's a gmail plugin to group emails by label). 
