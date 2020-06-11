@@ -4,6 +4,8 @@ Maximum page size is limited to 100 conversations per page, however there's a wa
 This was built to show more messages while using inboxy. (It's a gmail plugin to group emails by label). 
 Here's the official link: https://www.inboxymail.com/
 
+![gmail-increase-maximum-page-size](https://raw.githubusercontent.com/vtexperts/gmail-increase-maximum-page-size/master/screenshots/gmail-settings-maximum-page-size.png)
+
 # How to install
 This is chrome extension, so you need to:
 1. download files from repo
@@ -12,7 +14,7 @@ This is chrome extension, so you need to:
 4. Install from .zip
 
 Once installed, open gmail, refresh and right click. You should see "Increase Gmail Page Size". 
-
+![rightclick](https://raw.githubusercontent.com/vtexperts/gmail-increase-maximum-page-size/master/screenshots/right-click-context-menu.png)
 
 Hit "Increase Gmail Page Size" and the macro will be executed, which will automatically:
 * Go into gmail settings
