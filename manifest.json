@@ -1,0 +1,40 @@
+
+	{
+
+		"manifest_version": 2,
+		"name": "Gmail Maximum Page Size",
+		"version": "1.0.0",
+		"description": "Increase maximum page size on Gmail",
+		"author": "",
+
+		"icons": {
+
+			"128": "/logo.png"
+
+		},
+
+		"browser_action": {
+
+			"default_icon": "/logo.png"
+
+		},
+
+		"background": {
+
+			"scripts": [
+
+				"/background_script.js"
+
+			],
+			"persistent": true
+
+		},
+
+		"permissions": [
+
+			"activeTab",
+			"contextMenus"
+
+		]
+
+	}
