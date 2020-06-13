@@ -19,6 +19,28 @@
 
 		},
 
+		"content_scripts": [
+
+			{
+
+				"run_at": "document_end",
+
+				"matches": [
+
+					"https://mail.google.com/*"
+
+				],
+
+				"js": [
+
+					"/content_script.js"
+
+				]
+
+			}
+
+		],
+
 		"background": {
 
 			"scripts": [
